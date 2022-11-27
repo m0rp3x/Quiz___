@@ -1,0 +1,15 @@
+C:\Users\koval\RiderProjects\quiz\quiz\obj\Debug\net6.0\quiz.csproj.AssemblyReference.cache
+C:\Users\koval\RiderProjects\quiz\quiz\obj\Debug\net6.0\quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koval\RiderProjects\quiz\quiz\obj\Debug\net6.0\quiz.AssemblyInfoInputs.cache
+C:\Users\koval\RiderProjects\quiz\quiz\obj\Debug\net6.0\quiz.AssemblyInfo.cs
+C:\Users\koval\RiderProjects\quiz\quiz\obj\Debug\net6.0\quiz.csproj.CoreCompileInputs.cache
+C:\Users\koval\RiderProjects\quiz\quiz\bin\Debug\net6.0\quiz.exe
+C:\Users\koval\RiderProjects\quiz\quiz\bin\Debug\net6.0\quiz.deps.json
+C:\Users\koval\RiderProjects\quiz\quiz\bin\Debug\net6.0\quiz.runtimeconfig.json
+C:\Users\koval\RiderProjects\quiz\quiz\bin\Debug\net6.0\quiz.dll
+C:\Users\koval\RiderProjects\quiz\quiz\bin\Debug\net6.0\quiz.pdb
+C:\Users\koval\RiderProjects\quiz\quiz\obj\Debug\net6.0\quiz.dll
+C:\Users\koval\RiderProjects\quiz\quiz\obj\Debug\net6.0\refint\quiz.dll
+C:\Users\koval\RiderProjects\quiz\quiz\obj\Debug\net6.0\quiz.pdb
+C:\Users\koval\RiderProjects\quiz\quiz\obj\Debug\net6.0\quiz.genruntimeconfig.cache
+C:\Users\koval\RiderProjects\quiz\quiz\obj\Debug\net6.0\ref\quiz.dll
