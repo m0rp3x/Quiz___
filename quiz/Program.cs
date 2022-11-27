@@ -5,12 +5,12 @@ using quiz;
 
 namespace ConsoleApp12
 {
-    internal class Bebra
+    internal class quizz
     {
         public static  void Main(string[] args)
         {
             int ans = 0;
-            List<Questions> xyi = new List<Questions>
+            List<Questions> ms = new List<Questions>
             {
                 new Questions(1,"Какое название имеют конспирологические теории по поводу высадки NASA на луне?","лунный заговор"),
                 new Questions(2,"Последння буква в Алфавите","Я"),
@@ -21,7 +21,7 @@ namespace ConsoleApp12
 
             List<string?> answer = new List<string?>();
                 
-            foreach (var i in xyi )
+            foreach (var i in ms )
             {
                 Console.WriteLine($"{i.Question}");
                 Console.WriteLine();
@@ -33,10 +33,10 @@ namespace ConsoleApp12
             }
 
             Console.WriteLine();
-            Console.WriteLine($"Вы ответили правильно на {ans} что является { ans * 100 / xyi.Count}%");
+            Console.WriteLine($"Вы ответили правильно на {ans} что является { ans * 100 / ms.Count}%");
             
             
-            File.WriteAllText(@"C:\Users\koval\RiderProjects\quiz\quiz\quiz.json", JsonSerializer.Serialize(xyi));
+            File.WriteAllText(@"C:\Users\koval\RiderProjects\quiz\quiz\quiz.json", JsonSerializer.Serialize(ms));
             File.WriteAllText(@"C:\Users\koval\RiderProjects\quiz\quiz\answer.json", JsonSerializer.Serialize(answer));
             
        
